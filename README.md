@@ -15,6 +15,9 @@ The receiver architecture includes:
 
 ![Tracking Architecture](images/tracking_architecture.png)
 
+## Performance Results
+
+![Results](images/performance_analysis_Table.png)
 
 
 ## Objectives
