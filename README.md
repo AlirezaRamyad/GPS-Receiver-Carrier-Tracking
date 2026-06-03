@@ -29,9 +29,9 @@ The receiver architecture includes:
 
 ## Repository Contents
 
-- exercise3_main.slx
+- main.slx
 - load_params.m
-- Exercise3_Report.pdf
+- Report.pdf
 
 ## Key Results
 
