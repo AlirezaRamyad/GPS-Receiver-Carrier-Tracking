@@ -13,7 +13,7 @@ The receiver architecture includes:
 
 ## System Architecture
 
-![Tracking Architecture](Screenshot.png)
+![Tracking Architecture](images/tracking_architecture.png)
 
 ## Objectives
 
