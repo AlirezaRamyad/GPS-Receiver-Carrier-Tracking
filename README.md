@@ -15,6 +15,10 @@ The receiver architecture includes:
 
 ![Tracking Architecture](images/tracking_architecture.png)
 
+## Performance Results
+
+![Results](images/performance_analysis.png)
+
 ## Objectives
 
 - Implement carrier tracking loops for GNSS receivers
