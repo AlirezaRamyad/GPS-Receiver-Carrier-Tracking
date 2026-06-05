@@ -45,6 +45,14 @@ The receiver architecture includes:
 - Evaluated tracking performance under multiple SNR scenarios
 - Demonstrated the impact of integration time on receiver performance
 
+## 👨‍💻 Author
+
+**Alireza Ramyad**  
+MSc Student in Communication Systems and Networks — Tampere University
+
+[![GitHub](https://img.shields.io/badge/GitHub-alirezaRMY-181717?logo=github)](https://github.com/alirezaRMY)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Ramyad-0077B5?logo=linkedin)](https://www.linkedin.com/in/alireza-ramyad)
+
 ## Topics
 
 GNSS, GPS, Satellite Navigation, Carrier Tracking, PLL, FLL, Signal Processing, MATLAB, Simulink
